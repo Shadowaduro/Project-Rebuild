@@ -1,0 +1,2 @@
+# Project-Rebuild
+Project Rebuild is a third person action role-playing/simulation game, it is set in a fictional fantasy environment/world. The player repairs/rebuilds a city in ruins according to their own design or the design of the remaining townspeople, collecting/mining resources and receiving input and feedback from the townspeople, the aim of the game is to completely rebuild the town, with different endings being a possibility depending on how the player rebuilds the town. 
